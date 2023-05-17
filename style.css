@@ -110,10 +110,10 @@
         transition: all 0.5s ease;
         height: 50vh;
         z-index: -1;
-        background: #131313;
+        background: #FBFAEE;
     }
     .navbar__menu.active {
-        background: #131313;
+        background: #FBFAEE;
         top: 100%;
         opacity: 1;
         transition: all 0.5s ease;
@@ -131,7 +131,7 @@
         height: 3px;
         margin: 5px auto;
         transition: all 0.3s ease-in-out;
-        background: #fff;
+        background: black;
     }
 
     .navbar__item {
