@@ -232,12 +232,12 @@ body {
 
 .main__container h1 {
     text-decoration: underline;
-    text-decoration-color:green;
+    text-decoration-color:blue;
 }
 
 .main__container h2 {
     text-decoration: underline;
-    text-decoration-color:green;
+    text-decoration-color:blue;
 }
 .main_content1 p {
     margin: 12px auto;
@@ -341,6 +341,7 @@ body {
     text-transform: uppercase;
     font-weight: 800;
     letter-spacing: 2px;
+    text-decoration: none;
 }
 
 .image_slide .slide .info p {
