@@ -9,4 +9,5 @@ Goals
 - Make the Project page 
 - fix the sizing issues 
 - make the nav bar blurred?
+- make it mobile friendly
 
